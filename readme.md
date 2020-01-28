@@ -34,3 +34,9 @@ Python
 ______
 
 [점프 투 파이썬](https://wikidocs.net/book/1)
+
+
+With Electron
+_____________
+
+[Electron 으로 데스크톱 앱 만들기](https://velog.io/@gwak2837/Electron%EC%9C%BC%EB%A1%9C-%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%86%B1-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-using-Create-React-App-and-Electron-Builder)
